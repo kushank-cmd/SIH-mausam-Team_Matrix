@@ -2,10 +2,14 @@
 
 ## 1. Project Information
 
-**Project Title:** MAUSAM
-**PS ID:** SIH26076
-**Category:** Software
-**Team Name:** matriX
+*   **Project Title:** Mausam
+*   **PS ID:** SIH26076
+*   **PS Title:** Development of
+personalized homepage for 'Mausam' mobile application
+*   **Category:** Software
+*   **Theme:** Smart Automation
+*   **Team Name:** MatriX
+*   **Team ID:** NSUT070
 
 ## 2. Problem Statement
 
